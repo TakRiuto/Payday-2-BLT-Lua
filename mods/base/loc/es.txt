@@ -78,7 +78,8 @@
 
 	"blt_language_select" : "Lenguaje",
 	"blt_language_select_desc" : "Escoge el Lenguaje de tu preferencia",
-	"blt_language_en" : "Castellano (Latino)",
+	"blt_language_en" : "English",
+	"blt_language_es" : "Castellano (Latino)",
 	"blt_language_cht" : "Chinese (Traditional)",
 	"blt_language_de" : "German",
 	"blt_language_fr" : "French",
@@ -86,7 +87,7 @@
 	"blt_language_tr" : "Turkish",
 	"blt_language_id" : "Indonesian",
 	"blt_language_it" : "Italian",
-	"blt_language_zh-cn" : "Chinese"
+	"blt_language_zh-cn" : "Chinese",
 
 	"blt_no_image" : "Sin Imagen",
 	"blt_no_name" : "Sin Nombre",
